@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanya1591
 - 👀 I’m interested in It
-- 🌱 I’m currently learning in Cydeo
+- 🌱 I’m currently learning Salesforce
 - 💞️ I’m looking to collaborate on for video podcast
 - 📫 How to reach me my email: abdimalikovna.t@gmail.com
 
